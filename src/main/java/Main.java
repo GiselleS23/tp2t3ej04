@@ -23,9 +23,9 @@ public class Main {
         }
 
         if (encontrado) {
-            System.out.println("ENCONTRADO");
+            System.out.println("encontrado");
         } else {
-            System.out.println("NO ENCONTRADO");
+            System.out.println("no encontrado");
         }
 
         input.close();
